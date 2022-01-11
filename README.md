@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @lilfra
-- 👀 I’m interested in drugs
 - 🌱 I’m currently learning java, C, python
